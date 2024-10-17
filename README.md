@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 vijay-velu
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1909016" style='border:none;'></iframe>
 -->
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1909016" style='border:none;'></iframe>
 <p> <img src="https://komarev.com/ghpvc/?username=vijay-velu&label=Profile%20views&color=blueviolet&style=flat" alt="vijay-velu" /> <img src="https://shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/vijay-velu/interval:30_days&color=blueviolet&label=Coding%20stats%20(last 30 days)" /> </p>
