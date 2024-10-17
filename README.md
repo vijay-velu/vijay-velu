@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 vijay-velu
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1909016" style='border:none;'></iframe>
 -->
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1909016" style='border:none;'></iframe>
+
 <p> <img src="https://komarev.com/ghpvc/?username=vijay-velu&label=Profile%20views&color=blueviolet&style=flat" alt="vijay-velu" /> <img src="https://shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/vijay-velu/interval:30_days&color=blueviolet&label=Coding%20stats%20(last 30 days)" /> </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vijay-velu&theme=neon-dark)](https://git.io/streak-stats)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1909016" style='border:none;'></iframe>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vijay-velu&show_icons=true&hide_border=true&theme=radical" />
