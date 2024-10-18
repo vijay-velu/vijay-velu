@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 vijay-velu
 -->
 
-<p> <img src="https://komarev.com/ghpvc/?username=vijay-velu&label=Profile%20views&color=blueviolet&style=flat" alt="vijay-velu" /> <img src="https://shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/vijay-velu/interval:30_days&color=blueviolet&label=Coding%20stats%20(last 30 days)" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=vijay-velu&label=Profile%20views&color=blueviolet&style=flat" alt="vijay-velu" /> <img src="https://shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/vijay-velu/interval:30_days&color=blueviolet&label=Coding%20stats%20(last 30 days)" /> <img src="https://tryhackme-badges.s3.amazonaws.com/vijay.velu.png" alt="Your Image Badge" /> </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vijay-velu&theme=neon-dark)](https://git.io/streak-stats)
 
