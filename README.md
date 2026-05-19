@@ -153,6 +153,10 @@ Level 8 · Advent of Cyber 2024 completed
 
 ## Connect
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="vijay-velu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vijay-velu?trk=profile-badge">Vijay V.</a></div>
+
+<br>
+
 [![Personal Site](https://img.shields.io/badge/vijay--velu.github.io-0d0e10?style=flat&logo=github&logoColor=white)](https://vijay-velu.github.io)
 [![Vee Labs](https://img.shields.io/badge/Vee_Labs-privacy--first_apps-34d399?style=flat)](https://vijay-velu.github.io/vee-labs/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijay--velu-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-velu)
