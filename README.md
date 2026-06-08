@@ -7,8 +7,6 @@
 Trust-minimized systems. Self-hosted infrastructure. I troubleshoot what others escalate.
 ```
 
-> 🌏 Open to IAM / Identity Security / AI Security roles abroad — Singapore · UAE · UK · EU · Canada · Australia · Remote
-
 ---
 
 ## Identity
