@@ -1,33 +1,55 @@
 # Vijay Velu
 
-**Senior Technical Support Specialist · IAM | OpenText — Bengaluru, India**
+**Senior IAM Engineer · Identity Security | OpenText — Bengaluru, India**
 
 ```
 // privacy-first security engineering
 Trust-minimized systems. Self-hosted infrastructure. I troubleshoot what others escalate.
 ```
 
+> 🌏 Open to IAM / Identity Security / AI Security roles abroad — Singapore · UAE · UK · EU · Canada · Australia · Remote
+
 ---
 
 ## Identity
 
-Senior Technical Support Specialist with **10+ years of experience**, deep in Identity and Access Management — NetIQ IDM, eDirectory, and NetIQ Access Manager (NAM) on the OpenText stack.
+Senior IAM Engineer with **11+ years of experience**, deep in Identity and Access Management — NetIQ IDM, eDirectory, and NetIQ Access Manager (NAM) on the OpenText stack.
 
-Scope covers IDM upgrade failures, eDirectory certificate chain issues, User Application (UA) performance bottlenecks, and workflow design & provisioning logic — across RHEL, SUSE, and Windows Server environments. Disproportionate value through lab engineering: full-stack reproduction environments integrating Active Directory, Microsoft SQL Server, Azure Entra ID, and AWS IAM — isolating root causes before they become R&D handoffs.
+Scope covers IDM upgrade failures, eDirectory certificate chain issues, User Application (UA) performance bottlenecks, workflow design & provisioning logic, and Identity Governance — across RHEL, SUSE, and Windows Server environments. Disproportionate value through lab engineering: full-stack reproduction environments integrating Active Directory, Microsoft SQL Server, Azure Entra ID, and AWS IAM — isolating root causes before they become R&D handoffs.
 
-Outside of work: building a self-hosted infrastructure stack with a **privacy-first, trust-minimized** approach. Not because it's easier — because it's more defensible.
+Outside of work: running a self-hosted homelab with a **privacy-first, trust-minimized** approach, building mobile apps at [Vee Labs](https://vijay-velu.github.io/vee-labs/), and experimenting with local LLMs and AI agents.
 
 ---
 
-## Self-Hosted Infrastructure
+## IAM Expertise
+
+**Core Stack**
+
+![NetIQ IDM](https://img.shields.io/badge/NetIQ_IDM-OpenText-1d4ed8?style=flat)
+![eDirectory](https://img.shields.io/badge/eDirectory-OpenText-1d4ed8?style=flat)
+![NAM](https://img.shields.io/badge/NetIQ_Access_Manager-OpenText-1d4ed8?style=flat)
+![Identity Governance](https://img.shields.io/badge/Identity_Governance-OpenText-1d4ed8?style=flat)
+![Azure Entra ID](https://img.shields.io/badge/Azure_Entra_ID-Microsoft-0078d4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-Amazon-f97316?style=flat&logo=amazonaws&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-Microsoft-0078d4?style=flat)
+![SAML](https://img.shields.io/badge/SAML_2.0-grey?style=flat)
+![OIDC](https://img.shields.io/badge/OIDC-grey?style=flat)
+![OAuth2](https://img.shields.io/badge/OAuth2-grey?style=flat)
+
+---
+
+## Self-Hosted Homelab
 
 | Service | Category | Signal |
 |---|---|---|
-| **Ente** | Photos · Privacy | E2E encrypted. No vendor access to media. No cloud inference. |
-| **Immich** | Photos · Intelligence | Local ML face recognition. No Google Photos. No model training on personal data. |
-| **Open WebUI** | AI · Privacy | Local LLM inference. Queries never transmitted. Cloud AI is a data contract. |
-| **MinIO** | Storage | S3-compatible object storage, self-hosted. Storage you own = data you control. |
-| **Cloudflare Tunnel** | Networking · Zero-Trust | External access with zero inbound ports. Home IP never exposed. |
+| **Open WebUI** | AI · Privacy | Local LLM inference via Ollama. Queries never leave the machine. |
+| **Paperclip** | AI Agents | Autonomous agents running local models (qwen2.5-coder:7b, gemma-4-12b) |
+| **Ollama** | LLM Runtime | qwen2.5-coder:7b — GPU-accelerated on GTX 1660 Ti (4.7GB VRAM) |
+| **LM Studio** | LLM Runtime | gemma-4-12b-qat, qwen3.6-27b — larger models on CPU/RAM |
+| **Ente** | Photos · Privacy | E2E encrypted. No vendor access. No cloud inference. |
+| **Immich** | Photos · Intelligence | Local ML face recognition. No Google Photos. |
+| **MinIO** | Storage | S3-compatible. Storage you own = data you control. |
+| **Cloudflare Tunnel** | Networking | External access. Zero inbound ports. Home IP never exposed. |
 | **Uptime Kuma** | Monitoring | Self-hosted service health. Own your observability. |
 
 ---
@@ -77,7 +99,8 @@ Field service ticketing app for AC technicians. Role-based access for Admin, Off
 
 ## AI Labs
 
-- **Claude Agents** — Custom agent configurations for research, incident response, and structured data extraction (sonnet-4-6, opus-4-6)
+- **Local AI Stack** — Paperclip agents + OpenCode CLI → Ollama (qwen2.5-coder:7b GPU) + LM Studio (gemma-4-12b-qat CPU). Full offline inference, no cloud dependency.
+- **Claude Agents** — Custom agent configurations for research, incident response, and structured data extraction (claude-sonnet-4-6, claude-opus-4-6)
 - **Claude Code** — Daily dev tool for architecture, refactors, and security reviews across BreachGuard and ACServiceApp
 - **Google AI** — Certified in Agent Assist & Gen AI and Build AI Agents; working with Gemini, AI Studio, Vertex AI
 
@@ -91,11 +114,17 @@ Field service ticketing app for AC technicians. Role-based access for Admin, Off
 ![Agent Assist & Gen AI](https://img.shields.io/badge/Agent_Assist_%26_Gen_AI-Google-4285f4?style=flat&logo=google&logoColor=white)
 ![Build AI Agents](https://img.shields.io/badge/Build_AI_Agents-Google-4285f4?style=flat&logo=google&logoColor=white)
 
+**In Progress:**
+
+![SC-300](https://img.shields.io/badge/SC--300-Microsoft-0078d4?style=flat&logo=microsoftazure&logoColor=white)
+![CompTIA SecAI+](https://img.shields.io/badge/CompTIA_SecAI%2B-CompTIA-c8102e?style=flat)
+![Okta Professional](https://img.shields.io/badge/Okta_Professional-Okta-007dc1?style=flat)
+
 ---
 
 ## Tech Stack
 
-**IAM**
+**IAM & Identity**
 
 ![NetIQ IDM](https://img.shields.io/badge/NetIQ_IDM-OpenText-1d4ed8?style=flat)
 ![eDirectory](https://img.shields.io/badge/eDirectory-OpenText-1d4ed8?style=flat)
@@ -123,6 +152,14 @@ Field service ticketing app for AC technicians. Role-based access for Admin, Off
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596cd?style=flat)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6633?style=flat)
 ![OSINT](https://img.shields.io/badge/OSINT-374151?style=flat)
+
+**AI & Local LLMs**
+
+![Ollama](https://img.shields.io/badge/Ollama-local_GPU-222?style=flat)
+![LM Studio](https://img.shields.io/badge/LM_Studio-local_CPU-444?style=flat)
+![Open WebUI](https://img.shields.io/badge/Open_WebUI-self--hosted-3b82f6?style=flat)
+![Claude Code](https://img.shields.io/badge/Claude_Code-Anthropic-a78bfa?style=flat)
+![Paperclip](https://img.shields.io/badge/Paperclip_AI-agents-34d399?style=flat)
 
 **Mobile**
 
@@ -152,10 +189,6 @@ Level 8 · Advent of Cyber 2024 completed
 ---
 
 ## Connect
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="vijay-velu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vijay-velu?trk=profile-badge">Vijay V.</a></div>
-
-<br>
 
 [![Personal Site](https://img.shields.io/badge/vijay--velu.github.io-0d0e10?style=flat&logo=github&logoColor=white)](https://vijay-velu.github.io)
 [![Vee Labs](https://img.shields.io/badge/Vee_Labs-privacy--first_apps-34d399?style=flat)](https://vijay-velu.github.io/vee-labs/)
