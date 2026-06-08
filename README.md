@@ -169,6 +169,20 @@ Field service ticketing app for AC technicians. Role-based access for Admin, Off
 
 ---
 
+## GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vijay-velu&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/vijay-velu)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vijay-velu&theme=react-dark&hide_border=true&area=true)](https://github.com/vijay-velu)
+
+---
+
+## Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=vijay-velu&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/vijay-velu)
+
+---
+
 ## TryHackMe
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/vijay.velu.png" alt="TryHackMe Badge" width="280" />
