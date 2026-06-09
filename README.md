@@ -2,6 +2,9 @@
 
 **Senior IAM Engineer · Identity Security | OpenText — Bengaluru, India**
 
+[![vijay-velu.github.io](https://img.shields.io/badge/vijay--velu.github.io-security_blog-0d0e10?style=flat&logo=github&logoColor=white)](https://vijay-velu.github.io)
+[![vee-labs.github.io](https://img.shields.io/badge/vee--labs.github.io-app_portfolio-34d399?style=flat&logo=github&logoColor=white)](https://vee-labs.github.io)
+
 ```
 // privacy-first security engineering
 Trust-minimized systems. Self-hosted infrastructure. I troubleshoot what others escalate.
