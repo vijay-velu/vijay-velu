@@ -191,13 +191,39 @@ Level 8 · Advent of Cyber 2024 completed
 
 ---
 
+## Sites
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 vijay-velu.github.io
+Personal site and working log. Security engineering, self-hosted infrastructure, IAM deep-dives, and architecture decisions.
+
+[![Visit](https://img.shields.io/badge/vijay--velu.github.io-visit-0d0e10?style=flat&logo=github&logoColor=white)](https://vijay-velu.github.io)
+[![AI Labs](https://img.shields.io/badge/AI_Labs-agents_%26_LLMs-a78bfa?style=flat)](https://vijay-velu.github.io/ai-labs/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 vee-labs.github.io
+App portfolio. Privacy-first mobile apps built with Flutter and Kotlin — BreachGuard and ACServiceApp.
+
+[![Visit](https://img.shields.io/badge/vee--labs.github.io-visit-34d399?style=flat&logo=github&logoColor=white)](https://vee-labs.github.io)
+[![GitHub Org](https://img.shields.io/badge/GitHub-vee--labs-181717?style=flat&logo=github&logoColor=white)](https://github.com/vee-labs)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Connect
 
-[![Personal Site](https://img.shields.io/badge/vijay--velu.github.io-0d0e10?style=flat&logo=github&logoColor=white)](https://vijay-velu.github.io)
-[![Vee Labs](https://img.shields.io/badge/Vee_Labs-privacy--first_apps-34d399?style=flat)](https://vijay-velu.github.io/vee-labs/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijay--velu-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-velu)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-vijay.velu-c11111?style=flat)](https://tryhackme.com/p/vijay.velu)
-[![Vee Labs GitHub](https://img.shields.io/badge/GitHub-vee--labs-181717?style=flat&logo=github&logoColor=white)](https://github.com/vee-labs)
+[![Personal Site](https://img.shields.io/badge/vijay--velu.github.io-0d0e10?style=flat&logo=github&logoColor=white)](https://vijay-velu.github.io)
+[![Vee Labs](https://img.shields.io/badge/Vee_Labs-34d399?style=flat)](https://vee-labs.github.io)
 
 ---
 
