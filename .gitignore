@@ -1,0 +1,39 @@
+# Obsidian workspace and cache
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace*.json
+.obsidian/file-recovery.json
+
+# Obsidian plugin internals
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/data*.json
+.obsidian/themes/*
+.obsidian/snippets/*
+
+# Trash and temporary files
+.trash/
+.Trash/
+.Trash-*/
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Local editor and dependency folders
+.vscode/
+.idea/
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Local secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
